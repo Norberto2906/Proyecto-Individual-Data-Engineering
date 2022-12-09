@@ -1,0 +1,4 @@
+
+fastapi==0.88.0 # Marco
+uvicorn==0.20.0 # Servidor
+pandas==1.4.4 # Librería pandas para EDA y ETL
